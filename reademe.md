@@ -20,8 +20,9 @@ I ocassionally blog and tweet about front-end development. Check out my twitter 
 
 ## Get in touch :coffee:
 
-- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/ChrisRo51264893).
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/christophererodriguez/)
+- Your future buddy to discuss Front End related things and tech in general on [Twitter](https://twitter.com/ChrisRo51264893).
+- Your future employee on [LinkedIn](https://www.linkedin.com/in/christophererodriguez/).
+- Check out my contributions [StackOverflow](https://stackoverflow.com/users/1374272/chris-r).
 - And of course GitHub you're already on (Recursion).
 
 
