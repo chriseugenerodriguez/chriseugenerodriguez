@@ -21,7 +21,6 @@ I ocassionally blog and tweet about front-end development. Check out my twitter 
 ## Get in touch :coffee:
 
 - Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/ChrisRo51264893).
-- Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@sagarviradiya).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/christophererodriguez/)
 - And of course GitHub you're already on (Recursion).
 
