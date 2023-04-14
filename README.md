@@ -24,9 +24,6 @@ I ocassionally blog and tweet about front-end development. Check out my twitter 
 - Check out my contributions [StackOverflow](https://stackoverflow.com/users/1374272/chris-r).
 - And of course GitHub you're already on (Recursion).
 
-
-[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chriseugenerodriguez)](https://github.com/chriseugenerodriguez/github-readme-stats)
-
 <!--
 **chriseugenerodriguez/chriseugenerodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
