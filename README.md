@@ -1,10 +1,4 @@
 # Hey there :wave:
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/chriseugenerodriguez/count.svg" />
-</p>
-
 ## About me
 
 I'm Chris Rodriguez. An Angular Developer at Microsoft. Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
@@ -23,6 +17,13 @@ I ocassionally blog and tweet about front-end development. Check out my twitter 
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/christophererodriguez/).
 - Check out my contributions [StackOverflow](https://stackoverflow.com/users/1374272/chris-r).
 - And of course GitHub you're already on (Recursion).
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/chriseugenerodriguez/count.svg" />
+</p>
+
 
 <!--
 **chriseugenerodriguez/chriseugenerodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
