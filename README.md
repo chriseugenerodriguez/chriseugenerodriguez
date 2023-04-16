@@ -1,4 +1,6 @@
-<img src="https://giphy.com/embed/10zxDv7Hv5RF9C"  />
+<div align="center">
+  <img src="https://giphy.com/embed/10zxDv7Hv5RF9C"  >
+</div>
 
 I'm Chris Rodriguez. An Angular Developer at Microsoft. Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
 
