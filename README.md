@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://giphy.com/embed/10zxDv7Hv5RF9C"  >
+  <img src="[https://giphy.com/embed/10zxDv7Hv5RF9C](https://th.bing.com/th/id/R.98683a77ec0f8a7c1cfd3313be970c38?rik=K0RpcLS25daiVg&riu=http%3a%2f%2fcdn.wallpapersafari.com%2f11%2f33%2fEaO4ew.gif&ehk=NWP3%2fXG6OU2ASmnOcEWDD7geKTDr9BtXC020pB6PXZo%3d&risl=1&pid=ImgRaw&r=0)"  >
 </div>
 
 I'm Chris Rodriguez. An Angular Developer at Microsoft. Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
