@@ -1,6 +1,3 @@
-# Hey there :wave:
-## About me
-
 I'm Chris Rodriguez. An Angular Developer at Microsoft. Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
 
 I ocassionally blog and tweet about front-end development. Check out my twitter for tips, and insights in latest front-end. I also try to contribute to various open source gits, and provide quick gists for all.
