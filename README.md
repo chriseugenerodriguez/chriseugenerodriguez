@@ -11,14 +11,6 @@ I ocassionally blog and tweet about front-end development. Check out my twitter 
 - Front-End :robot:
 - Open source :octocat:
 
-## Get in touch :coffee:
-
-- Your future buddy to discuss Front End related things and tech in general on [Twitter](https://twitter.com/ChrisRo51264893).
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/christophererodriguez/).
-- Check out my contributions [StackOverflow](https://stackoverflow.com/users/1374272/chris-r).
-- And of course GitHub you're already on (Recursion).
-
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/chriseugenerodriguez/count.svg" />
