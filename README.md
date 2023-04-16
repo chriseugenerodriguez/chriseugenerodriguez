@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:42%;position:relative;"><iframe src="https://giphy.com/embed/10zxDv7Hv5RF9C" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/loop-computer-matrix-10zxDv7Hv5RF9C">via GIPHY</a></p>
+<img src="https://giphy.com/embed/10zxDv7Hv5RF9C" />
 
 I'm Chris Rodriguez. An Angular Developer at Microsoft. Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
 
