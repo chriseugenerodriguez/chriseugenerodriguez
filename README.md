@@ -13,7 +13,7 @@ I ocassionally blog and tweet about front-end development. Check out my twitter 
 
 - Front-End :robot:
 - Open source :octocat:
-- Fitness :weight:
+- Fitness :running:
 
 <p align="center"> 
   Visitor count<br>
