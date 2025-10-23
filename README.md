@@ -13,13 +13,12 @@ Outside the keyboard, I’m a foodie, social traveler (six countries and countin
 
 ## Things I am passionate about
 
-- Front-End :robot:
-- Open source :octocat:
-- Fitness :running:
+- ⚡Front-End :robot:
+- 🤔 Open source :octocat:
+- 👯 Fitness :running:
 
 <br />
 <p align="center"> 
-  Visitor Count <br />
   <img src="https://profile-counter.deno.dev/chriseugenerodriguez/count.svg" alt="Key:: Visitor's Count" />
 </p>
 
