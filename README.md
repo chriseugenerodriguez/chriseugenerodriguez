@@ -13,8 +13,7 @@ I'm Chris Rodriguez. An Angular Developer at Microsoft. Community is :heart:. Co
 - Fitness :running:
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/chriseugenerodriguez/count.svg" />
+  ![Visitor Count](https://profile-counter.glitch.me/chriseugenerodriguez/count.svg)
 </p>
 
 
