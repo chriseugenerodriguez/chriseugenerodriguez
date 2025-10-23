@@ -13,9 +13,9 @@ Outside the keyboard, I’m a foodie, social traveler (six countries and countin
 
 ## Things I am passionate about
 
-- ⚡Front-End :robot:
-- 🤔 Open source :octocat:
-- 👯 Fitness :running:
+- Front-End :robot:
+- Open source :octocat:
+- Fitness :running:
 
 <br />
 <p align="center"> 
